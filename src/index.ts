@@ -7,4 +7,6 @@
 // Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
 
 // import './first-example'
-import './observable'
+// import './observable'
+// import './observer'
+import './operator'
